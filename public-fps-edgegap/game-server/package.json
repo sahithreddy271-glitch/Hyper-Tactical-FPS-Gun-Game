@@ -1,0 +1,10 @@
+{
+  "name": "tactical-fps-game-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Starter WebSocket dedicated match server for Edgegap",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"},
+  "dependencies": {"ws": "^8.18.0"}
+}
